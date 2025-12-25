@@ -3,7 +3,7 @@
 This project predicts **Life Expectancy** based on various **health, economic, and demographic indicators** using Machine Learning.  
 The app is built using **Streamlit** and trained on the **WHO Life Expectancy dataset**.
 
-## App:
+## App:https://endtoendml-1.streamlit.app/
 
 
 ## 🚀 Project Overview
@@ -82,4 +82,5 @@ Deploy on Streamlit Cloud / HuggingFace / Render
 Add feature importance graph
 
 Auto model selection toggle
+
 
